@@ -1,6 +1,6 @@
 platform :ios, '14.7'
 
-target 'pretixSCAN' do
+target 'SDScan' do
   use_frameworks!
 
   # Pods for PretixScan
@@ -14,7 +14,7 @@ target 'pretixSCAN' do
     end
   end
 
-  target 'PretixScanTests' do
+  target 'SDScanTests' do
     inherit! :search_paths
     # Pods for testing
   end
