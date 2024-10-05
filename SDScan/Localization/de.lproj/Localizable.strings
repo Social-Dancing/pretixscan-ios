@@ -1,0 +1,193 @@
+"About this App" = "Über diese App";
+"All Contents and Settings were deleted" = "Alle Daten und Einstellungen wurden gelöscht";
+/* Ticket is already redeemed */
+"Already Redeemed" = "Bereits gescannt";
+"Already Scanned" = "Bereits gescannt";
+"App Version" = "App-Version";
+"Automatic Syncing is now disabled" = "Automatische Synchronisierung ist nun deaktiviert";
+"Automatic Syncing is now enabled" = "Automatische Synchronisierung ist nun aktiviert";
+/* Question Type Label */
+"BoolQuestionCell" = "Ja oder Nein";
+"Cancel" = "Abbrechen";
+/* Order Canceled */
+"Canceled" = "Storniert";
+"Check In Unpaid" = "Unbezahlt einchecken";
+"Checked In" = "Eingecheckt";
+"Configuration" = "Konfiguration";
+"Connect" = "Verbinden";
+"Connect Device" = "Gerät verbinden";
+"Continue" = "Fortfahren";
+"Could not create Nonce" = "Nonce konnte nicht erstellt werden";
+"Could not create URL" = "URL konnte nicht erstellt werden";
+/* Question Type Label */
+"CountryCodeQuestionCell" = "Land Auswählen";
+
+/* Question Type Label */
+"TelQuestionCell" = "Telefonnummer";
+
+/* Question Type Label */
+"DateQuestionCell" = "Datum Eingeben";
+/* Question Type Label */
+"DateTimeQuestionCell" = "Datum und Uhrzeit eingeben";
+"Delete Everything" = "Alle löschen";
+"Do Nothing" = "Nichts tun";
+"Enter Connection Details" = "Verbindungsdetails eingeben";
+"Error" = "Fehler";
+/* Order Expired */
+"Expired" = "abgelaufen";
+/* Question Type Label */
+"FileUploadQuestionCell" = "Datei Hochladen";
+"Force Complete Resync" = "Vollständige Synchronisierung erzwingen";
+/* Placeholder is an integer */
+"Found %d Results" = "%d Ergebnisse gefunden";
+"Found No Results" = "Keine Ergebnisse gefunden";
+"Found one Result" = "Ein Ergebnis gefunden";
+"Found too many results, keep typing" = "Zu viele Ergebnisse gefunden, bitte tippen Sie mehr Buchstaben ein";
+"I understand that personal data of attendees of my connected events will be stored on this device and I will secure the device properly." = "Ich verstehe, dass personenbezogene Daten zu den Teilnehmer*innen meiner Veranstaltungen auf diesem Gerät gespeichert werden und sichere das Gerät angemessen.";
+"In online mode, the app will confirm any check-ins in real-time with the server. In offline mode, the app will work locally and only synchronize it's data with the server every couple of minutes. When working with multiple devices, this can potentially mean that a ticket can be used multiple times. Choose offline mode if you have an unreliable internet connection but can tolerate such situations." = "Im Online-Modus prüft die App jeden Scan direkt in Echtzeit mit dem Server. Im Offline-Modus trifft die App alle Entscheidungen autonom und synchronisiert sich alle paar Minuten mit dem Server. Wenn Sie mit mehreren Geräten arbeiten, kann das heißen, dass ein Ticket mehrfach gescannt werden kann. Wählen Sie den Offline-Modus z.B. wenn SIe eine unzuverlässige Internetverbindung haben und mit solchen Situationen leben können.";
+"Incomplete Information" = "Unvollständige Information";
+"Initialization Token already used" = "Dieser Token wurde bereits benutzt";
+"Instead of scanning a QR code, you can read these details off your screen." = "Statt einen QR-Code zu scannen, können Sie die Verbindungsdaten auch manuell eingeben.";
+"Invalid Ticket" = "Ungültiges Ticket";
+/* e.g. Last Sync [12 minutes] ago */
+"Last Sync %@ ago " = "Letzte Synchronisierung vor %@ ";
+"Last Sync: Never " = "Noch nicht synchronisiert ";
+/* time interval */
+"less than a minute" = "weniger als eine Minute";
+"Libraries and Licenses" = "Bibliotheken und Lizenzen";
+/* No comment provided by engineer. */
+"User interface" = "Benutzeroberfläche";
+
+/* No comment provided by engineer. */
+"Play sounds" = "Signaltöne abspielen";
+
+/* No comment provided by engineer. */
+"Use device camera" = "Geräte-Kamera benutzen";
+
+/* No comment provided by engineer. */
+"Use front camera" = "Frontkamera benutzen";
+
+/* No comment provided by engineer. */
+"ConnectExternalDevice" = "Bitte benutze die Hardware-Scantasten dines Gerätes zum Scannen.";
+
+/* No comment provided by engineer. */
+"Download Orders" = "Bestellungen herunterladen";
+
+"Loading Search" = "Suche wird geladen";
+"Manual Setup" = "Manuelle Einrichtung";
+"MIT License" = "MIT-Lizenz";
+/* Question Type Label */
+"MultiLineStringQuestionCell" = "Geben Sie Text ein";
+/* Question Type Label */
+"MultipleChoiceQuestionCell" = "Alle zutreffenden auswählen";
+/* e.g. do not check in unpaid ticket */
+"No" = "Nein";
+"No Event" = "Keine Veranstaltung";
+/* Question Type Label */
+"NumberQuestionCell" = "Geben Sie eine Zahl ein";
+"Offline" = "Offline";
+"OK" = "OK";
+/* Question Type Label */
+"OneLineStringQuestionCell" = "Geben Sie Text Ein";
+"Online" = "Online";
+/* Order Paid */
+"Paid" = "bezahlt";
+/* Order Pending */
+"Pending" = "ausstehend";
+"pretixSCAN" = "SD Scan";
+"pretixSCAN is an event entry app that you can use to validate tickets that you sold through pretix." = "SD Scan ist eine App für den Veranstaltungseinlass mit der Sie Tickets scannen können, die Sie mit Social Dancing verkauft haben.";
+/* Ticket is Unpaid */
+"Product" = "Produkt";
+"Reset Contents and Settings" = "Daten löschen und Einstellungen zurücksetzen";
+"Search" = "Suchen";
+"Search will begin after you have typed at least 3 characters." = "Suche beginnt nachdem Sie mindestens drei Buchstaben getippt haben.";
+"Select Check-In List" = "Check-In-Liste auswählen";
+"Select Event" = "Veranstaltung auswählen";
+"Settings" = "Einstellungen";
+"Setup Complete" = "Einrichtung vollständig";
+/* Question Type Label */
+"SingleChoiceQuestionCell" = "Eine Option auswählen";
+"Start Scanning" = "Loslegen!";
+"Statistics" = "Statistiken";
+"Sync every few minutes" = "Alle paar Minuten synchronisieren";
+"Sync Mode" = "Synchronisations-Modus";
+"Sync Mode Switched to Offline" = "Synchronisations-Modus ist nun offline";
+"Sync Mode Switched to Online" = "Synchronisations-Modus ist nun online";
+"Sync Now" = "Jetzt synchronisieren";
+"Syncing Done " = "Synchronisierung erledigt ";
+"System URL" = "System-Adresse";
+"The resource was not found on the server" = "Die Ressource wurde auf dem Server nicht gefunden";
+"The server refused to handle our request" = "Der Server hat die Anfrage der App abgelehnt";
+"The server returned a non HTTP response" = "Der Server hat keine HTTP-Antwort zurückgegeben";
+"The server returned an empty response" = "Der Server hat eine leere Antwort zurückgegeben";
+"The server returned an unkown status code: " = "Der Server hat einen unerwarteten Status-Code zurückgegeben: ";
+"This feature cannot be used at the moment: " = "Diese Funktion kann momentan nicht benutzt werden: ";
+"This is not a ticket, or not a ticket for this event." = "Dies ist kein Ticket, oder ein Ticket für eine andere Veranstaltung.";
+"This ticket has not been paid for, do you still want to check it in?" = "Dieses Ticket wurde noch nicht bezahlt, wollen Sie es trotzdem einchecken?";
+"This will delete event data from the device and log you out. Do you want to continue?" = "Dies löscht alle Daten von Ihrem Gerät und meldet das Gerät ab. Wollen Sie fortfahren?";
+"Ticket Already Used" = "Ticket bereits benutzt";
+/* Question Type Label */
+"TimeQuestionCell" = "Zeit Eingeben";
+"To get started, create a new device in the Devices section of your organizer account in the pretix backend. You will then be presented with a configuration QR code to scan." = "Um loszulegen, erstellen Sie ein neues Gerät im Abschnitt \"Geräte\" Ihres Veranstalterkontos im Social Dancing Backend. Sie erhalten dann einen Konfigurations-QR-Code, den Sie hier scannen können.";
+"Token" = "Token";
+"Total Tickets Sold" = "Tickets verkauft insgesamt";
+"Currently Attending" = "Aktuell Anwesend";
+/* Ticket is Unpaid */
+"Unpaid" = "Unbezahlt";
+"Redeemed" = "Eingelöst";
+"Valid" = "Gültig";
+"Valid Ticket" = "Gültiges Ticket";
+/* No comment provided by engineer. */
+"Canceled" = "Storniert";
+
+/* No comment provided by engineer. */
+"Ambiguous" = "Ticket-Code auf Liste nicht eindeutig";
+
+"Valid Ticket, but needs attention" = "Gültiges Ticket, erfordert Aufmerksamkeit";
+"Welcome" = "Willkommen";
+"You are forbidden from accessing this resource" = "Sie dürfen auf diese Ressource nicht zugreifen";
+"You are not authorized to access this resource" = "Sie haben keine Zugriffsrechte auf diese Ressource";
+"You can now start scanning" = "Sie können nun beginnen, Tickets zu scannen";
+"Entry" = "Eingang";
+"Exit" = "Ausgang";
+"Exit stored" = "Ausgang gespeichert";
+/* Not allowed (custom rule) */
+"Not allowed" = "Nicht erlaubt";
+/* Title for the List of Questions */
+"Questions" = "Fragen";
+"Scan mode" = "Scan-Modus";
+/* Answer to a Boolean Check In Question */
+"Yes" = "Ja";
+/* Note for a required boolean question */
+"You have to answer YES to check in" = "Sie müssen JA auswählen um die Person einzuchecken";
+"You need to upload a file here. Please do so from your computer" = "Sie müssen hier eine Datei hochladen, bitte tun Sie das am Computer";
+
+/* No comment provided by engineer. */
+"Offline validation" = "Offline-Prüfung";
+
+
+/* No comment provided by engineer. */
+"Take a photo" = "Foto aufnehmen";
+
+/* No comment provided by engineer. */
+"Attention, special ticket!" = "Vorsicht, besonderes Ticket!";
+
+/* Blocked (ticket signature) */
+"Blocked" = "Ticket gesperrt";
+
+/* Invalid time (ticket signature) */
+"Invalid time" = "Ticket momentan nicht gültig";
+
+/* Reset Device */
+"Reset Device" = "Gerät zurücksetzen";
+
+/* There are no events to show */
+"There are no events to show" = "Es wurde kein gegenwärtiges oder zukünftiges Event gefunden. Bitte prüfen Sie das Datum und die Zugriffsrechte Ihrer Veranstaltungen und wischen Sie nach unten, um zu aktualisieren.";
+
+/* Dismiss */
+"Dismiss" = "Schließen";
+
+/* Gate */
+"Gate" = "Station";
+
+"Order not approved" = "Bestellung nicht freigegeben";
